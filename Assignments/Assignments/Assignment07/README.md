@@ -4,7 +4,8 @@
 To implement transfer learning for image classification using pre-trained CNN models and compare their performance.
 
 ## Dataset
-Intel Image Classification Dataset
+CIFAR-10 Dataset
+Canadian Institute for Advanced Research – 10 classes (CIFAR-10)
 
 ## Models Used
 - AlexNet
