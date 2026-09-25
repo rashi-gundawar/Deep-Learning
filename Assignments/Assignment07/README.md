@@ -10,6 +10,7 @@ AlexNet
 VGG16
 ResNet50
 EfficientNetB0
+
 Tasks Performed
 Loaded and preprocessed the image dataset
 Resized and normalized images
@@ -20,12 +21,14 @@ Replaced the final classification layer
 Trained each model
 Evaluated model performance
 Compared the models using different performance metrics
+
 Evaluation Metrics
 Accuracy
 Precision
 Recall
 F1-score
 Training Time
+
 Tools Used
 Python
 Google Colab
