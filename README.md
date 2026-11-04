@@ -24,6 +24,3 @@ This repository contains a collection of Deep Learning assignments, experiments,
 
 
 
-
-This repository is intended for educational and academic purposes.
-
