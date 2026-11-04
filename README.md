@@ -16,7 +16,7 @@ This repository contains a collection of Deep Learning assignments, experiments,
 | [Assignment08](./Assignment%208/README.md) | Sentiment analysis using pretrained BERT on the SST-2 dataset. |
 | [Assignment09](./Assignment%209/README.md) | Pretrained Vision Transformer and ResNet18 comparison on CIFAR-10. |
 | [Assignment10](./Assignment%2010/README.md) | Speech-command classification with speech-to-text and text-to-speech. |
-| [CP](./CP/README.md) | GOD'S EYE course-project proposal, report, and associated assets. |
+| [CP](./CP/README.md) |  |
 
 
 
